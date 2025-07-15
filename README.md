@@ -1,4 +1,4 @@
-# Proyecto Final - Recetario Culinario
+# Proyecto Final - Red Social De Recetas
 
 Este proyecto es una aplicacion de consola para gestionar un recetario culinario con funcionalidades como publicación de recetas, busqueda por ingrediente, likes y comentarios.
 
@@ -6,7 +6,7 @@ Este proyecto es una aplicacion de consola para gestionar un recetario culinario
 - Manuel Rozas
 
 # Proyecto elegido
-*Recetario culinario*  
+Red Social De Recetas
 
 # Tecnología utilizada
 - Lenguaje: "Python"
