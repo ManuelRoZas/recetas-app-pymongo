@@ -23,4 +23,24 @@ Este proyecto es una aplicacion de consola para gestionar un recetario culinario
 - Comentar recetas
 - Ver comentarios y recetas mejor valoradas
 
-## 🗃️ Estructura del proyecto
+##  Instalación y configuración
+
+### 1. Clonar el repositorio
+
+```bash
+git clone https://github.com/ManuelRoZas/recetas-app-pymongo.git
+cd recetas-app-pymongo
+```
+### 2. Instalar Dependencias y Iniciar entorno.
+
+```bash
+#Crear el entorno virtual
+python -m venv venv
+#Instalar dependencias
+pip install -r requirements.txt
+```
+
+### 3. Como usar
+```bash
+python main.py #ABRE LA APLICACION DE CONSOLA
+```
